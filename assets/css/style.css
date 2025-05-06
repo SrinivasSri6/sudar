@@ -1609,6 +1609,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .has-scrollbar::-webkit-scrollbar-button { width: 100px; }
 
 
+  @media (min-width: 300px) {
+  
+  
+  
+  }
 
   /**
    * SIDEBAR
